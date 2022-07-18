@@ -149,3 +149,64 @@ Nested .then.
 ### How would you handle a fetch request that received a 404 response from the server?
 
 Create an error message. 
+
+## HTTP 
+
+### What is an HTTP request?
+
+### What kind of request is sent when you click a link in your browser?
+
+### What kind of request is sent when you submit a form in your browser?
+### What is an HTTP response?
+### What does the status code of an HTTP response tell us?
+### What are some common status codes?
+### What are HTTP methods for?
+### What kind of request should have a GET method?
+### What kind of request should have a POST method?
+### What kind of request should have a PUT method?
+### What kind of request should have a DELETE method?
+### What is the “body” of an HTTP request for?
+### What is the “body” of an HTTP response for?
+
+## DOM 
+### How would you get a reference to a DOM element in your JS?
+### How would you get references to multiple DOM elements at once in your JS?
+### How would you update properties of a DOM element?
+### What’s the difference between a “property” and an “attribute”?
+### What are some different ways to add content inside a DOM element?
+### When might the <template> element be useful?
+### What are the different ways to add event handlers to elements?
+### Why is addEventListener the safest way to add an event handler?
+### How can you access submitted form values in your JS?
+
+## Testing 
+
+### Why are tests useful?
+
+They allow you to check if everything is working as it should in your code. 
+
+### What is the difference between unit and integration tests?
+
+### What kind of code is easier to test?
+
+### Why should your tests be isolated from each other?
+
+So they don't have to rely on one another. If they did there is a higher chance something will go wrong. 
+
+### What is Test Driven Development (TDD)?
+
+When you write tests first then the code. 
+
+### When might TDD be a useful process to follow?
+
+## Debugging 
+
+### What process would you take to find out why your code isn’t working?
+
+* Check console.log
+
+### What tools do JS/dev tools have to help debug your code?
+
+### At what point should you ask for someone else’s help?
+
+When you have used all tools/processes you can think of and are still stuck. 
