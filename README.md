@@ -34,9 +34,7 @@ When you have only worked on one file but you are including all files in a commi
 
 We create a new branch to work on.
 
-What does
-git push origin [branch-name]
-do?
+### What does git push origin [branch-name] do?
 
 It pushes that branch on Github. You can then create a PR on Github so other people can review what you have done. 
 
